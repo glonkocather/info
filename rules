@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "a baseball glove (Catcher)",
+    "description": "a baseball glove, she needs it in order to catch red balls, she needs to hold it and move it horizontally towards the falling balls and catch them and accumulate points",
+    "imageUrl": "https://i.ibb.co/3S2Cm7t/catcher.jpg"
+  },
+  {
+    "id": 2,
+    "name": "What are white balls for?",
+    "description": "White balls are your assistants, they slow down and brake the falling red balls, making it easier for you to catch them in time",
+    "imageUrl": "https://i.ibb.co/wLvt777/whitebals.jpg"
+  },
+  {
+    "id": 3,
+    "name": "what is a baseball bat for and how to get one",
+    "description": "A baseball bat is added every 50 points, in order to use it you need to tap on it in the playing field. When using it, all red balls in sight disappear, this will help you take a break and continue with renewed vigor",
+    "imageUrl": "https://i.ibb.co/4WNMjN6/bit.jpg"
+  }
+  
+]
